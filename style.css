@@ -1,0 +1,90 @@
+.titrePage {
+  height: 50px;
+  border: 1px solid rgb(214, 214, 214);
+}
+.barreDeRecherche {
+  height: 50px;
+}
+.notification {
+  height: 50px;
+}
+.overview {
+  height: 60px;
+}
+.boutonAdd {
+  height: 60px;
+}
+.personnel {
+  height: 170px;
+}
+.boutique {
+  height: 170px;
+}
+.calendrier {
+  height: 170px;
+}
+.chiffreAffaire {
+  height: 170px;
+}
+.imageReports {
+  height: 300px;
+}
+.imageCharBy {
+  height: 300px;
+}
+
+.tableauDesPays {
+  padding: 20px;
+  background-color: blue;
+  border-radius: 20px;
+  color: white;
+}
+.ligneRestant {
+  background-color: rgb(214, 214, 214);
+}
+.menuGauche {
+  background-color: white;
+  height: 700px;
+}
+.d-flex {
+  height: 30px;
+  width: 1000px;
+}
+
+.ligne1 {
+  background: linear-gradient(to right, rgb(201, 200, 200), white);
+}
+
+.pageDroite {
+  padding: 40px;
+}
+.ligneGraphique {
+  margin-bottom: 30px;
+}
+.img {
+  border-radius: 20px;
+}
+.decalePaagraphe {
+  padding-left: 25px;
+}
+.changecolors {
+  color: white;
+  margin-left: 10px;
+}
+
+.marge {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.cards1 {
+  background: linear-gradient(rgb(255, 22, 224), rgb(0, 17, 255));
+}
+.cards2 {
+  background: linear-gradient(rgb(6, 109, 11), rgb(40, 168, 68));
+}
+.cards3 {
+  background: linear-gradient(rgb(255, 117, 36), rgb(216, 24, 66));
+}
+.cards4 {
+  background: linear-gradient(rgb(91, 255, 77), rgb(136, 173, 48));
+}
